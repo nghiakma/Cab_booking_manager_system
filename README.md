@@ -15,9 +15,9 @@ Step 5th. Paste inside root directory/ where you install xampp local disk C: dri
 
 Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
 
-Step 7th. Create database name cmsphp
+Step 7th. Create database name cbsphp
 
-Step 8th. Import cmsphp.sql file given inside the zip package in SQL file folder
+Step 8th. Import cbsphp.sql file given inside the zip package in SQL file folder
 
 Step 9th. Run the script http://localhost/CabBooking-PHP
 
